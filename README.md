@@ -1,1 +1,1 @@
-# clase-7---Del-gr-fico-mixto-al-SVG
+# clase-7-Del-gráfico-mixto-al-SVG
